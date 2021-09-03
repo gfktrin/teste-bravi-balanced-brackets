@@ -1,0 +1,14 @@
+{
+    "name": "balanced-brackets",
+    "version": "1.0.0",
+    "description": "",
+    "main": "balanced-brackets.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Gabriel Trindade",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^24.9.0"
+    }
+}
